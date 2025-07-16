@@ -1,0 +1,18 @@
+{
+  "name": "Procesos de Compras",
+  "slug": "procesos-de-compras",
+  "version": "0.1.2",
+  "download_url": "https://github.com/Innovacompras/procesos-de-compras/blob/main/wordpress/procesos-de-compras-0.1.2.zip",
+  "requires": "5.0",
+  "tested": "6.4.1",
+  "author": "Dirección General de Contrataciones Públicas por Edward Ceballos Camacho",
+  "homepage": "https://www.dgcp.gob.do/",
+  "sections": {
+    "description": "Un plugin que hace cosas increíbles.",
+    "changelog": "### 0.1.2\n- Se reemplazó el consumo de datos por una API optimizada.\n- Se añadió la capacidad de actualizar el plugin directamente desde el panel de administración de WordPress."
+  },
+  "banners": {
+    "low": "https://user-images.githubusercontent.com/126279066/221286208-b2449152-8d42-42c5-aedd-990354073e3c.png",
+    "high": "https://user-images.githubusercontent.com/126279066/221286208-b2449152-8d42-42c5-aedd-990354073e3c.png"
+  }
+}
