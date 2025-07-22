@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>Procesos de Compra</name>
+        <description>Muestra los detalles de los procesos de compra gestionados a través del Sistema Electrónico de Contrataciones Públicas (SECP) - Portal Transaccional.</description>
+        <element>mod_processes</element>
+        <type>module</type>
+        <version>0.1.2</version>
+        <infourl title="Información del módulo">https://www.dgcp.gob.do/instituciones-implementadas/</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/Innovacompras/procesos-de-compras/raw/refs/heads/main/joomla/mod_processes-0.1.2.zip</downloadurl>
+        </downloads>
+        <tags>estable</tags>
+        <targetplatform name="joomla" version="3.0"/>
+    </update>
+</updates>
