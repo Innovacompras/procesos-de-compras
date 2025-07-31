@@ -6,6 +6,10 @@ _Muestra los detalles de los procesos de compra gestionados a través del Sistem
 
 Dentro de este repositorio podrán encontrar 2 archivos zip que corresponden a plugins para agregar los detalles de las compras hechas a través del portal transaccional.
 
+### Change Log
+
+* v0.1.4 Se agrego soporte para bootstrap 5.2.1
+
 ### Configuración del plugin de Joomla ###
 
 * Descargar el archivo ZIP ___mod_processes.zip___ que se encuentra en la carpeta ___joomla___
