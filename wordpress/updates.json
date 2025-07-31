@@ -1,7 +1,7 @@
 {
   "name": "Procesos de Compras",
   "slug": "procesos-de-compras",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "download_url": "https://github.com/Innovacompras/procesos-de-compras/raw/refs/heads/main/wordpress/procesos-de-compras.zip",
   "requires": "5.0",
   "tested": "6.8.2",
@@ -9,7 +9,7 @@
   "homepage": "https://www.dgcp.gob.do/",
   "sections": {
     "description": "Muestra los detalles de los procesos de compra gestionados a través del Sistema Electrónico de Contrataciones Públicas (SECP) - Portal Transaccional.",
-    "changelog": "### 0.1.3\n- Se reemplazó el consumo de datos por una API optimizada.\n- Se añadió la capacidad de actualizar el plugin directamente desde el panel de administración de WordPress."
+    "changelog": "### 0.1.4\n- Se agrego soporte para bootstrap 5.2.1"
   },
   "banners": {
     "low": "https://user-images.githubusercontent.com/126279066/221286208-b2449152-8d42-42c5-aedd-990354073e3c.png",
