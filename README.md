@@ -30,7 +30,8 @@ Dentro de este repositorio podrán encontrar 2 archivos zip que corresponden a p
   * Precione el botón guardar para culminar la configuración.
   ![Menú](https://user-images.githubusercontent.com/126279066/221280327-43f961c8-9c86-4cf3-acfb-17e52cfcceb3.png)
 * Finalizado el proceso anterior bastaría con ir a su artículo y colocar el siguiente fragmento de código en el mismo ___{loadmodule mod_processes}___
-![Code](https://user-images.githubusercontent.com/126279066/221281273-914b988b-8c99-442f-a972-730c80589020.png)
+![Code](https://github.com/user-attachments/assets/3f5811b8-1f83-4719-8f5f-2a459c54f4ae)
+
 * Justo al finalizar este proceso verá los procesos de compra publicados en su página.
 ![Listo](https://user-images.githubusercontent.com/126279066/221281943-20f13c79-30a4-4ff5-81dd-b365034dd264.png)
 
