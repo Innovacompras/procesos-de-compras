@@ -1,22 +1,22 @@
 {
-  "name": "Procesos de Compras",
-  "slug": "procesos-de-compras",
-  "version": "0.1.4",
-  "download_url": "https://github.com/Innovacompras/procesos-de-compras/raw/refs/heads/main/wordpress/procesos-de-compras.zip",
-  "requires": "5.0",
-  "tested": "6.8.2",
-  "author": "Dirección General de Contrataciones Públicas por Edward Ceballos Camacho",
-  "homepage": "https://www.dgcp.gob.do/",
-  "sections": {
-    "description": "Muestra los detalles de los procesos de compra gestionados a través del Sistema Electrónico de Contrataciones Públicas (SECP) - Portal Transaccional.",
-    "changelog": "### 0.1.3\n- Se reemplazó el consumo de datos por una API optimizada.\n- Se añadió la capacidad de actualizar el plugin directamente desde el panel de administración de WordPress."
-  },
-  "banners": {
-    "low": "https://user-images.githubusercontent.com/126279066/221286208-b2449152-8d42-42c5-aedd-990354073e3c.png",
-    "high": "https://user-images.githubusercontent.com/126279066/221286208-b2449152-8d42-42c5-aedd-990354073e3c.png"
-  },
-  "icons": {
-    "1x": "https://www.dgcp.gob.do/icono.png",
-    "2x": "https://www.dgcp.gob.do/icono-x2.png"
-  }
+	"name": "Procesos de Compras",
+	"slug": "procesos-de-compras",
+	"version": "0.1.6",
+	"download_url": "https://github.com/Innovacompras/procesos-de-compras/raw/refs/heads/main/wordpress/procesos-de-compras.zip",
+	"requires": "5.0",
+	"tested": "6.8.2",
+	"author": "Dirección General de Contrataciones Públicas por Edward Ceballos Camacho",
+	"homepage": "https://www.dgcp.gob.do/",
+	"sections": {
+		"description": "Muestra los detalles de los procesos de compra gestionados a través del Sistema Electrónico de Contrataciones Públicas (SECP) - Portal Transaccional.",
+  		"changelog": "<h3>0.1.5</h3><strong>Novedades:</strong><ul><li>Se agregó la posibilidad de listar varias Unidades de Compras mediante ACTs de WordPress.</li></ul><strong>Configuraciones disponibles:</strong><ul><li>Código de Unidad de Compras (UC) → <code>codigo_uc</code></li><li>Color para títulos → <code>text_color</code></li><li>Color para títulos (franja blanca) → <code>text_color2</code></li><li>Color para fondo de los títulos → <code>bg_color</code></li><li>Color para el botón → <code>button_color</code></li></ul>"
+	},
+	"banners": {
+		"low": "https://user-images.githubusercontent.com/126279066/221286208-b2449152-8d42-42c5-aedd-990354073e3c.png",
+		"high": "https://user-images.githubusercontent.com/126279066/221286208-b2449152-8d42-42c5-aedd-990354073e3c.png"
+	},
+	"icons": {
+		"1x": "https://www.dgcp.gob.do/icono.png",
+		"2x": "https://www.dgcp.gob.do/icono-x2.png"
+	}
 }
