@@ -56,4 +56,12 @@ Dentro de este repositorio podrán encontrar 2 archivos zip que corresponden a p
 ![Code](https://user-images.githubusercontent.com/126279066/221286101-e0a94263-197c-4661-b2ff-e6e31cf8f19b.png)
 * Justo al finalizar este proceso verá los procesos de compra publicados en su página.
 ![Listo](https://user-images.githubusercontent.com/126279066/221286208-b2449152-8d42-42c5-aedd-990354073e3c.png)
+*Puede configurar varias unidades de comprar e incluso con diferente formato de visualiación
 
+**Configuraciones disponibles:**
+**Configuraciones disponibles:**
+- Código de Unidad de Compras (UC) → `codigo_uc`
+- Color para títulos → `text_color`
+- Color para títulos (franja blanca) → `text_color2`
+- Color para fondo de los títulos → `bg_color`
+- Color para el botón → `button_color`
