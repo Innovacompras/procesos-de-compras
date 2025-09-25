@@ -59,9 +59,12 @@ Dentro de este repositorio podrán encontrar 2 archivos zip que corresponden a p
 *Puede configurar varias unidades de comprar e incluso con diferente formato de visualiación
 
 **Configuraciones disponibles:**
-**Configuraciones disponibles:**
 - Código de Unidad de Compras (UC) → `codigo_uc`
 - Color para títulos → `text_color`
 - Color para títulos (franja blanca) → `text_color2`
 - Color para fondo de los títulos → `bg_color`
 - Color para el botón → `button_color`
+
+_Ejemplo para color rojo común con Unidad de Compras (DGCP) configurada en el mismo fragmento:_
+
+`[list_processes codigo_uc="000007" bg_color="red" text_color="white"]`
